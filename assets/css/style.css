@@ -34,15 +34,17 @@ body {
 }
 
 .resetBtn {
+  margin: 0 30px;
   padding: 5px;
   font-size: 12px;
+  border-radius: 4px;
 }
 .decrementBtn,
 .incrementBtn {
   font-size: 32px;
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
 }
 
 .decrementBtn:hover,
