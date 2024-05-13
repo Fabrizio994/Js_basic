@@ -4,7 +4,7 @@ let counter = 0;
 // h1
 const h1Title = document.createElement("h1");
 h1Title.className = "title";
-h1Title.innerHTML = "Sono un counter";
+h1Title.innerHTML = "Sono un Counter!";
 document.body.appendChild(h1Title);
 
 // div contatore
