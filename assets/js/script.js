@@ -13,7 +13,7 @@ counterDiv.className = "counterDiv";
 counterDiv.innerHTML = counter;
 document.body.appendChild(counterDiv);
 
-//pulsante "decrementare"
+//pulsante "-"
 const decrementButton = document.createElement("button");
 decrementButton.className = "decrementBtn";
 decrementButton.innerHTML = "-";
@@ -33,7 +33,7 @@ resetButton.addEventListener("click", () => {
 });
 document.body.appendChild(resetButton);
 
-//pulsante "incrementare"
+//pulsante "+"
 const incrementButton = document.createElement("button");
 incrementButton.className = "incrementBtn";
 incrementButton.innerHTML = "+";
