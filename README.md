@@ -10,11 +10,11 @@
 
 ## About:
 
-<ol> 
-<li>L'index.html è molto basilare, contiene solo l'essenziale<li>
+<ul> 
+<li>L'index.html è molto basilare, contiene solo l'essenziale</li>
 <li>Tutti i componenti sono stati creati con JS</li>
 <li>Il tutto è stato abbellito con un pizzico di CSS</li>
-</ol>
+</ul>
 
 ## Link APP
 
